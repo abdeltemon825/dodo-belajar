@@ -7,3 +7,6 @@ belajar 2
 
 belajar branch 1
 belajar branch 1
+
+belajar branch 2
+belajar branch 2
