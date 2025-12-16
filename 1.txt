@@ -1,3 +1,6 @@
 belajar
 -belajar belajar
 -belajar belajar
+
+belajar 2
+-belajar belajar 2
