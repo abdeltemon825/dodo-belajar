@@ -4,3 +4,6 @@ belajar
 
 belajar 2
 -belajar belajar 2
+
+belajar 3
+-belajar belajar 3
